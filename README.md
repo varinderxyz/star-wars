@@ -12,6 +12,8 @@ Start the development server:
 ### `npm start`
 
 Project Structure
+
+```
 /src
   ├── /apollo            # Apollo Client configuration
   │   └── queries/       # GraphQL queries and mutations
@@ -21,3 +23,4 @@ Project Structure
   ├── /styles            # Global and component-specific styles (CSS)
   ├── App.js             # Main React component
   └── index.js           # React DOM rendering and Apollo Client setup
+```
