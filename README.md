@@ -3,6 +3,8 @@ A simple application built using React and GraphQL that allows users to browse a
 
 Clone the repository:
 ```git clone https://github.com/your-username/star-wars.git```
+
+chnage the root directory
 ```cd star-wars```
 
 Install dependencies: Using npm:
