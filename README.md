@@ -10,3 +10,6 @@ Install dependencies: Using npm:
 
 Start the development server:
 ```npm start```
+
+The application will now run at: 
+```http://localhost:3000```
